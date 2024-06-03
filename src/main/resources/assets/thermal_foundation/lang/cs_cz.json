@@ -65,7 +65,7 @@
   "block.thermal.stripped_rubberwood_log": "Oloupaný gumovníkový kmen",
   "block.thermal.stripped_rubberwood_wood": "Oloupané gumovníkové dřevo",
 
-  "entity.thermal.rubberwood_chest_boat": "Loď s truhlou",
+  "entity.thermal.rubberwood_chest_boat": "Člun s truhlou",
 
   "item.thermal.raw_lead": "Surové olovo",
   "item.thermal.raw_nickel": "Surový nikl",
@@ -140,6 +140,6 @@
   "item.thermal.invar_nugget": "Invarový nuget",
   "item.thermal.invar_plate": "Invarový plát",
 
-  "item.thermal.rubberwood_boat": "Gumovníková loď",
-  "item.thermal.rubberwood_chest_boat": "Gumovníková loď s truhlou"
+  "item.thermal.rubberwood_boat": "Gumovníkový člun",
+  "item.thermal.rubberwood_chest_boat": "Gumovníkový člun s truhlou"
 }
